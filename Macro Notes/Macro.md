@@ -129,6 +129,17 @@ The only change that can impact the posibility curve are factors other than pric
 ---
 ## Review exercises
 5.
-    1.If the price in the notebook market is 14 $ per notebook is, there a shortage  or a surplus 
-    of notebooks? NHow much is the shortage or surplus? 
-       
+    1. If the price in the notebook market is 14 $ per notebook is, there a shortage  or a surplus 
+    of notebooks? NHow much is the shortage or surplus?
+        Surplus since there is less demand than supply
+        Supply: 5
+        Demand: 3 
+    2. If the pirce = 8$
+    shortage since there is less amount of supplies than demanded
+        Supply: 2
+        Demand = 6
+    3. Equlibrium is 12 p q 4
+
+    4. Studies indicate that students understand lectures better whem they've taken hand-written notes. 
+        The demand curve shifts to the left, so both Price and Quantity goes highter
+    
